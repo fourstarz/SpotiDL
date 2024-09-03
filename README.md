@@ -6,6 +6,8 @@
 ⚠️ I do Not condone piracy ⚠️
 
 - What is SpotiDL
+
+
 SpotiDL is a simple CLI to grab playlists from spotify and downloads them using SpotDL
 
 
@@ -16,7 +18,9 @@ SpotiDL is a simple CLI to grab playlists from spotify and downloads them using 
 4. when finished, it should zip all the files together.
 
 - Where can i run this?
-  Anywhere that can run python and you can access the filesystem (replit works!)
+  
+
+Anywhere that can run python and you can access the filesystem (replit works!)
 
 
 If there is any issues please dont hestitate and create a bug report! 
