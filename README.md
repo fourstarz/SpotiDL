@@ -12,7 +12,7 @@ SpotiDL is a simple CLI to grab playlists from spotify and downloads them using 
 
 
 - How do i use SpotiDL
-  1. First grab the files in this project then ensure SpotDL is downloaded.
+  1. First grab the files in this project then ensure SpotiDL is downloaded.
 2. Then open the python project and replace the playlist URL to your URL.
 3. Then it should create a folder named Downloads and downloads everythin.
 4. when finished, it should zip all the files together.
